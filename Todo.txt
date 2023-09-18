@@ -1,0 +1,6 @@
+play ui/buttonclick.wav
+Add lilith_reload
+Add lilith_open_menu
+Finn "app" not executing blah blah
+Fix smiley menu (maybe not) 
+remap servers menu binds
