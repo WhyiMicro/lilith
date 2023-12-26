@@ -7,3 +7,4 @@
 - [ ] Clean up unnecessary files
 - [ ] Better organization and alias names
 - [ ] More comments for a better understanding
+- [ ] Some day make this fully independent (while still compatible with Mastercomfig)
