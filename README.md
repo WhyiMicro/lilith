@@ -1,5 +1,6 @@
 # lilith
-amigos, amigos
+クールな脚本！
 ## Todo list
-- [ ] Add cool stuff
-- [x] Patch mistakes
+- [ ] Create proper menu scaling for different resolutions
+- [ ] Implement cmd demorestart command in quick fixes
+- [ ] Implement viewmodel flip script (with warning that it will stop demos)
