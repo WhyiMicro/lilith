@@ -8,3 +8,4 @@
 - [ ] Better organization and alias names
 - [ ] More comments for a better understanding
 - [ ] Some day make this fully independent (while still compatible with Mastercomfig)
+- [ ] Maybe make this fully modular (able to customize what apps are available although this is likely more of a pain than for what it's worth)
