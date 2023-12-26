@@ -1,8 +1,4 @@
-// User crosshair settings
-#base "../../crosshair.txt"
-// Default crosshair settings
-#base "../AmbyCrosshairDefault.res"
-// The rest from the original file
+#base "../../transparentElement.txt"
 #base "../../huditemattributetracker.res"
 
 "Resource/UI/HudAchievementTrackerItem.res"
@@ -22,10 +18,10 @@
 		pin_to_sibling	""
 	}
 	
-	"AmbyCrosshair"
+	"transparentViewmodel"
 	{
 		controlName		EditablePanel
-		fieldName 		"AmbyCrosshair"
+		fieldName 		"transparentViewmodel"
 		xPos			0
 		yPos			0
 		wide			f0
