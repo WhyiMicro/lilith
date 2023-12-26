@@ -14,3 +14,4 @@
     - Should at least do this for the transparent viewmodels toggle since it forces `anti_aliasing` off in all cases
 - [ ] Maybe implement a config file that rebinds the number keys (or whatever Lilith overrides) to non-default commands
 - [ ] Maybe have customizable config files be within a separate `Customize` folder (assuming that's not already done)
+- [ ] Maybe have a custom emoji/binds section (custom config file that implements these binds or makes it easier to customize the menu)
