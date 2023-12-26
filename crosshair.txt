@@ -1,0 +1,42 @@
+"Resource/UI/HudAchievementTrackerItem.res"{"AmbyCrosshair"{
+
+////////////////////////////////////////
+////////// CROSSHAIR SETTINGS //////////
+////////////////////////////////////////
+
+// VTF image version
+"Image"
+{
+	"xpos"			"0"
+	"ypos"			"0"
+	"zpos"			"-100"
+	"wide"			"f0"
+	"tall"			"480"
+	"visible"		"1"
+	"enabled"		"1"
+	"image"			"replay/thumbnails/REFRACTnormal_transparent"
+	"scaleImage"	"1"
+}
+
+// KnucklesCrosses version
+"Text"
+{
+	visible 			0
+	
+	xPos				c-240
+	yPos				c-240
+	wide				480
+	tall				480
+	
+	font				"size:20,outline:off"
+	labelText			"·"
+	fgColor_override		"50 220 0 255"
+}}}
+
+////////////////////////////////////////
+////////////// OVERRIDES ///////////////
+////////////////////////////////////////
+
+//#base "resource/OnlyWithMinmodeOn.res"
+#base "resource/OnlyWithMinmodeOff.res"
+//#base "resource/AboveNormalCrosshair.res"
