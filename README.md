@@ -19,4 +19,3 @@
 - [ ] Votemap buttons
 - [ ] Fakelag modifiers
 - [ ] Spectate button
-- [ ] Custom server ips
