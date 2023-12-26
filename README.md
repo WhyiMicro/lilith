@@ -19,3 +19,4 @@
 - [ ] Votemap buttons
 - [ ] Fakelag modifiers
 - [ ] Spectate button
+- [x] Add `.vpk` versions to Releases
