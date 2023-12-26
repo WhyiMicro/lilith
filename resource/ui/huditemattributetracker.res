@@ -36,7 +36,7 @@
 		
 		"Text"
 		{
-			controlName		Label
+			controlName		""
 			fieldName 		"Text"
 			textAlignment	center
 			paintbackground	0
