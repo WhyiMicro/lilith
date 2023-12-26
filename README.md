@@ -10,8 +10,13 @@
 - [ ] Make buttons play a sound on click (using the in-game command: `playgamesound`)
     - Maybe have specific sounds for different types of buttons i.e toggles
 - [ ] Some day make this fully independent (while still compatible with Mastercomfig)
-- [ ] Maybe make this fully modular (able to customize what apps are available although this is likely more of a pain than for what it's worth)
+## Ideas
+- [ ] Make this fully modular (able to customize what apps are available although this is likely more of a pain than for what it's worth)
     - Should at least do this for the transparent viewmodels toggle since it forces `anti_aliasing` off in all cases
-- [ ] Maybe implement a config file that rebinds the number keys (or whatever Lilith overrides) to non-default commands
-- [ ] Maybe have customizable config files be within a separate `Customize` folder (assuming that's not already done)
-- [ ] Maybe have a custom emoji/binds section (custom config file that implements these binds or makes it easier to customize the menu)
+- [ ] Implement a config file that rebinds the number keys (or whatever Lilith overrides) to non-default commands
+- [ ] Have customizable config files be within a separate `Customize` folder (assuming that's not already done)
+- [ ] Custom emoji/binds section (custom config file that implements these binds or makes it easier to customize the menu)
+- [ ] Votemap buttons
+- [ ] Fakelag modifiers
+- [ ] Spectate button
+- [ ] Custom server ips
