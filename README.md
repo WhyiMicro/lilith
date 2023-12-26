@@ -20,6 +20,5 @@
 - [ ] Fakelag modifiers
 - [ ] Spectate button
 - [ ] Separate enable/disable and cycle buttons for `net_graph`
-
-
+## Completed
 - [x] Add `.vpk` versions to Releases
