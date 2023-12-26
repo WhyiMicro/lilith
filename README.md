@@ -12,3 +12,5 @@
 - [ ] Some day make this fully independent (while still compatible with Mastercomfig)
 - [ ] Maybe make this fully modular (able to customize what apps are available although this is likely more of a pain than for what it's worth)
     - Should at least do this for the transparent viewmodels toggle since it forces `anti_aliasing` off in all cases
+- [ ] Maybe implement a config file that rebinds the number keys (or whatever Lilith overrides) to non-default commands
+- [ ] Maybe have customizable config files be within a separate `Customize` folder (assuming that's not already done)
