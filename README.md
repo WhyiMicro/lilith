@@ -19,3 +19,4 @@
 - [ ] Votemap buttons
 - [ ] Fakelag modifiers
 - [ ] Spectate button
+- [ ] Download section has `.vpk` versions
