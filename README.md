@@ -19,4 +19,6 @@
 - [ ] Votemap buttons
 - [ ] Fakelag modifiers
 - [ ] Spectate button
-- [x] Add `.vpk` versions to Releases
+- [ ] Separate enable/disable and cycle buttons for `net_graph`
+- [ ] In addition to the console spew, there could be feedback displayed under the menu
+- [x] Add `.vpk` versions to Releases (completed in release 1.2.0)
