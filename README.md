@@ -1,4 +1,3 @@
-test
 # lilith
 クールな脚本！
 ## Todo list
