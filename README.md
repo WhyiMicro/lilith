@@ -4,10 +4,9 @@
 - [ ] Create proper menu scaling for different resolutions
 - [ ] Implement cmd demorestart command in quick fixes
 - [ ] Implement viewmodel flip script (with warning that it will stop demos)
-- [ ] Clean up unnecessary files
-- [ ] Better organization and alias names
-- [ ] More comments for a better understanding
+- [ ] General cleanup for optimization (better organization, alias names, comments, remove unnecessary files/commands etc)
 - [ ] Some day make this fully independent (while still compatible with Mastercomfig)
+- [ ] Create modules for certain things (logo, etc)
 - [x] Make buttons play a sound on click (using the in-game command: `playgamesound`) [completed in release 1.2.1]
     - Maybe have specific sounds for different types of buttons i.e toggles
 ## Ideas
@@ -15,6 +14,7 @@
     - Should at least do this for the transparent viewmodels toggle since it forces `anti_aliasing` off in all cases
 - [ ] Implement a config file that rebinds the number keys (or whatever Lilith overrides) to non-default commands
 - [ ] Have customizable config files be within a separate `Customize` folder (assuming that's not already done)
+    - Customization files could exist in `\cfg\overrides\` that are named `lilith_x.cfg`
 - [ ] Custom emoji/binds section (custom config file that implements these binds or makes it easier to customize the menu)
 - [ ] Votemap buttons
 - [ ] Fakelag modifiers
@@ -22,3 +22,26 @@
 - [ ] Separate enable/disable and cycle buttons for `net_graph`
 - [ ] In addition to the console spew, there could be feedback displayed under the menu
 - [x] Add `.vpk` versions to Releases [completed in release 1.2.0]
+## Changelog
+### 1.2.1 [UNRELEASED]
+- Buttons on the menu now play a sound when clicked
+
+### 1.2.0
+- Now compatible with mastercomfig version 9.10.2
+- New transparent viewmodel toggle
+- Removed some unnecessary files
+- Mod is finally available in `.vpk` format
+
+### 1.1.0
+- Fixed null not being implemented with lilith by default
+- Added transparent viewmodel toggle under scripts (not working yet)
+- Added 2 new patches for texture and material reloads
+
+### 1.0.1
+- Fixed keys not being remapped after joining a server through the server browser
+- Added console syntax support (using `setinfo` command)
+- Added this changelog system
+- Removed the old changelog system
+
+### 1.0.0
+- Initial release!
