@@ -29,6 +29,7 @@
 ### 1.2.1 [UNRELEASED]
 - Buttons on the menu now play a sound when clicked
 - Internal comment changes and slight reorganization
+- App initializes through `exec lilith` now instead of `exec lilith/app`
 ### 1.2.0
 - Now compatible with mastercomfig version 9.10.2
 - New transparent viewmodel toggle
