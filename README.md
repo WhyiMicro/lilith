@@ -8,7 +8,7 @@
 - [ ] Better organization and alias names
 - [ ] More comments for a better understanding
 - [ ] Some day make this fully independent (while still compatible with Mastercomfig)
-- [x] Make buttons play a sound on click (using the in-game command: `playgamesound`)
+- [x] Make buttons play a sound on click (using the in-game command: `playgamesound`) [completed in release 1.2.1]
     - Maybe have specific sounds for different types of buttons i.e toggles
 ## Ideas
 - [ ] Make this fully modular (able to customize what apps are available although this is likely more of a pain than for what it's worth)
@@ -21,4 +21,4 @@
 - [ ] Spectate button
 - [ ] Separate enable/disable and cycle buttons for `net_graph`
 - [ ] In addition to the console spew, there could be feedback displayed under the menu
-- [x] Add `.vpk` versions to Releases (completed in release 1.2.0)
+- [x] Add `.vpk` versions to Releases [completed in release 1.2.0]
