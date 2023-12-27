@@ -1,3 +1,4 @@
+// Part of the static-amby mod used to make the toggle transparent viewmodels work
 #base "../../transparentElement.txt"
 #base "../../huditemattributetracker.res"
 

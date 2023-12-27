@@ -1,3 +1,4 @@
+// Part of the static-amby mod used to make the toggle transparent viewmodels work
 "Resource/UI/HudAchievementTrackerItem.res"
 {	
 	"ItemAttributeTracker"
