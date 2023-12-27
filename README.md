@@ -7,7 +7,7 @@
 - [ ] Clean up unnecessary files
 - [ ] Better organization and alias names
 - [ ] More comments for a better understanding
-- [ ] Make buttons play a sound on click (using the in-game command: `playgamesound`)
+- [x] Make buttons play a sound on click (using the in-game command: `playgamesound`)
     - Maybe have specific sounds for different types of buttons i.e toggles
 - [ ] Some day make this fully independent (while still compatible with Mastercomfig)
 ## Ideas
