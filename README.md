@@ -15,8 +15,8 @@
 - [ ] Make this fully modular (able to customize what apps are available although this is likely more of a pain than for what it's worth)
     - Should at least do this for the transparent viewmodels toggle since it forces `anti_aliasing` off in all cases
 - [ ] Implement a config file that rebinds the number keys (or whatever Lilith overrides) to non-default commands
-- [ ] Have customizable config files be within a separate `Customize` folder (assuming that's not already done)
-    - Customization files could exist in `\cfg\overrides\` that are named `lilith_x.cfg`
+- [ ] Have a customizable file within the `overrides` folder named something like `lilith_customize.cfg` which is used for all customizations
+    - Include a template file in the downloads which has all of the customizations set to default, ready to be customized
 - [ ] Custom emoji/binds section (custom config file that implements these binds or makes it easier to customize the menu)
 - [ ] Votemap buttons
 - [ ] Fakelag modifiers
