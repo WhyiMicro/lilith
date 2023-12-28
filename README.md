@@ -2,7 +2,7 @@
 クールな脚本！
 ## Todo list
 - [ ] Create proper menu scaling for different resolutions
-- [ ] Implement cmd demorestart command in quick fixes
+- [x] Implement cmd demorestart command in quick fixes
 - [ ] Implement viewmodel flip script (with warning that it will stop demos)
 - [ ] General cleanup (better organization, alias names, comments, remove unnecessary files/commands etc)
 - [ ] Restructure the files and folders
@@ -28,6 +28,7 @@
 ## Changelog
 ### 1.2.1 [UNRELEASED]
 - Buttons on the menu now play a sound when clicked
+- The fix visual patch now uses `cmd demorestart` instead
 - Internal comment changes and slight reorganization
 - App initializes through `exec lilith` now instead of `exec lilith/app`
 ### 1.2.0
