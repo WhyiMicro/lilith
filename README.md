@@ -26,10 +26,14 @@
 - [ ] This is a long shot, but maybe look into ways of saving things across game sessions that were set in the menu?
 - [x] Add `.vpk` versions to Releases [completed in release 1.2.0]
 ## Changelog
-### 1.2.1 [UNRELEASED]
+### 1.3.0 [UNRELEASED]
 - Buttons on the menu now play a sound when clicked
 - Internal comment changes and slight reorganization
 - App initializes through `exec lilith` now instead of `exec lilith/app`
+- Replaced internal `\cfg\lilith\app.cfg` with `\cfg\lilith.cfg` since it was redundant to have the `app.cfg`
+- Modules system is now a thing! (WIP, but a thing)
+    - fpscap module implemented
+    - New customization file: `lilith_customizations` which resides in the `overrides` folder
 ### 1.2.0
 - Now compatible with mastercomfig version 9.10.2
 - New transparent viewmodel toggle
