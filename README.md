@@ -28,6 +28,7 @@
 - [x] Add `.vpk` versions to Releases [completed in release 1.2.0]
 ## Changelog
 ### 1.3.0 [UNRELEASED]
+- Dynamic server bookmarks to customize what the server menu connects you to. It can be modified in `lilith_servers.cfg` inside the `overrides` folder in `tf\cfg` (Read the wiki for more info)
 - Buttons on the menu now play a sound when clicked
 - The fix visual patch now uses `cmd demorestart` instead
 - Internal comment changes and slight reorganization
