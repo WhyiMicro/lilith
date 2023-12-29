@@ -1,3 +1,4 @@
+# We should start documenting and making a wiki. I've started it, so go check it out :)
 # lilith
 クールな脚本！
 ## Todo list
