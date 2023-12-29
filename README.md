@@ -1,4 +1,4 @@
-# We should start documenting and making a wiki. I've started it, so go check it out :)
+# We should start documenting and making a wiki. I've started it, so go check it out [here](https://github.com/WhyiMicro/lilith/wiki) :)
 # lilith
 クールな脚本！
 ## Todo list
