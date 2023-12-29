@@ -31,6 +31,7 @@
 - The fix visual patch now uses `cmd demorestart` instead
 - Internal comment changes and slight reorganization
 - App initializes through `exec lilith` now instead of `exec lilith/app`
+- New customization file `lilith_rebind.cfg` can be put in the `overrides` folder in `tf\cfg` for people with custom number keybinds
 - Replaced internal `\cfg\lilith\app.cfg` with `\cfg\lilith.cfg` since it was redundant to have the `app.cfg`
 - Modules system is now a thing! (WIP, but a thing)
     - fpscap module implemented
