@@ -2,13 +2,13 @@
 クールな脚本！
 ## Todo list
 - [ ] Create proper menu scaling for different resolutions
-- [x] Implement cmd demorestart command in quick fixes
 - [ ] Implement viewmodel flip script (with warning that it will stop demos)
 - [ ] General cleanup (better organization, alias names, comments, remove unnecessary files/commands etc)
 - [ ] Restructure the files and folders
 - [ ] Some day make this fully independent (while still compatible with Mastercomfig)
 - [ ] Create modules for certain things (logo, fpsmax, etc)
 - [ ] Fix rainbow-crosshair and null-movement's cross-compatibility (see warning within the files)
+- [x] Implement cmd demorestart command in quick fixes
 - [x] Make buttons play a sound on click (using the in-game command: `playgamesound`) [completed in release 1.2.1]
     - Maybe have specific sounds for different types of buttons i.e toggles
 ## Ideas
