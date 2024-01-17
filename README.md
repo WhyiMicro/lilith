@@ -5,11 +5,12 @@
 - [ ] Create new modules! 
 - [ ] Fill the wiki! Probably could start with the comment dumps (like the one in the class.cfg files) and add modules to it
 - [ ] Create proper menu scaling for different resolutions and font sizes (linux)
+- [ ] Make the `movement` module more customizable (changing the movement keys used for it)
 - [ ] General cleanup (better organization, alias names, comments, remove unnecessary files/commands etc)
 - [ ] Restructure the files and folders
 - [ ] Create a method for class-specific rebinds or script-specific; we'll have to make the rebinds more customizable 
 - [ ] Make execution of files etc flow better
-- [ ] Some day make this fully independent (while still compatible with Mastercomfig)
+- [ ] Some day make this fully independent (while still compatible with Mastercomfig)\
 - [ ] Fix rainbow-crosshair and null-movement's cross-compatibility (see warning within the files, assuming this is an issue)
 - [x] Implement warning that the viewmodel script will stop demos [kinda completed in release 1.3.0]
 - [x] Implement viewmodel flip script [completed in release 1.3.0]
