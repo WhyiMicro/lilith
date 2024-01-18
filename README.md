@@ -33,7 +33,7 @@
 - [ ] Spectate button
 - [ ] Separate enable/disable and cycle buttons for `net_graph`
 - [ ] This is a long shot, but maybe look into ways of saving things across game sessions that were set in the menu?
-    - something along the lines of using setinfo then convar dump to file? very vague memory of this
+    - [this looks promising](https://github.com/jooonior/tf2-loadouts-script/blob/master/cfg/loadouts/save.cfg)
 - [x] Add `.vpk` versions to Releases [completed in release 1.2.0]
 ## Changelog
 ### 1.3.0 [UNRELEASED]
