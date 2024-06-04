@@ -1,5 +1,5 @@
 # We should start documenting and making a wiki. I've started it, so go check it out [here](https://github.com/WhyiMicro/lilith/wiki) :)
-
+https://docs.comfig.app/latest/tf2/cvarlist_win/ (will remove this later, but I just need it here for quick access)
 # lilith
 
 クールな脚本！
