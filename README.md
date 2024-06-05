@@ -5,6 +5,12 @@
 A interactable UI in Team Fortress 2, built with useful features for both general use and more advanced functions! <nr>
 ### [Download Latest](https://github.com/WhyiMicro/lilith/releases)
 
+## Credits
+[iMicro](https://github.com/WhyiMicro) (OC) <br>
+[RealWinterPyro](https://github.com/RealWinterPyro) (Contributer) <br>
+[ReplayCoding](https://github.com/ReplayCoding) (Contributer) <br>
+[Deer ♡](https://github.com/DeerUwU) (Fixed .vpk crash caused by hud files in version 1.4.0) <br>
+[hbivnm](https://github.com/hbivnm) (Suggestions)
 
 ## Features
 lilith is packed with a bunch of features! <br>
@@ -135,6 +141,10 @@ Here's a overview over the UI menu and it's functions: <br>
 - [ ] Add `.vpk` versions to Releases [completed in release 1.2.0, but broken in 1.4.0]
 
 ## Changelog
+
+## 1.4.1 [UNRELEASED]
+- Fixed crash caused by hud files (Thanks [Deer ♡](https://github.com/DeerUwU))
+- lilith is finally back in `.vpk` format! Woo!
 
 ## 1.4.0 [UNRELEASED]
 - lilith now self executes, but at the cost of not being a `.vpk` anymore (Will be looked further into)
