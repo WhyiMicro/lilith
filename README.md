@@ -1,5 +1,5 @@
 # dev
-[tf2 cvars](https://docs.comfig.app/latest/tf2/cvarlist_win/) | [lilith wiki](https://github.com/WhyiMicro/lilith/wiki) | [changelog](woo)
+[tf2 cvars](https://docs.comfig.app/latest/tf2/cvarlist_win/) | [lilith wiki](https://github.com/WhyiMicro/lilith/wiki) | [changelog](https://github.com/WhyiMicro/lilith/blob/main/README.md#changelog)
 # lilith
 
 A interactable UI in Team Fortress 2, built with useful features for both general use and more advanced functions! <nr>
