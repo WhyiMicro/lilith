@@ -5,6 +5,8 @@
 	{
 		"Image"
 		{
+			"ControlName"	"CTFImagePanel"
+			"fieldName"		"Image"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"-100"
