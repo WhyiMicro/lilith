@@ -144,7 +144,7 @@ Here's a overview over the UI menu and it's functions: <br>
 
 ## Changelog
 
-## 1.4.1 [UNRELEASED]
+## 1.4.1
 - Fixed crash caused by hud files (Thanks [Deer ♡](https://github.com/DeerUwU))
 - lilith is finally back in `.vpk` format! Woo!
 
