@@ -124,10 +124,6 @@ Here's a overview over the UI menu and it's functions: <br>
 - [ ] Make execution of files etc flow better
 - [ ] Some day make this fully independent (while still compatible with Mastercomfig)
 - [ ] Fix rainbow-crosshair and null-movement's cross-compatibility (see warning within the files, assuming this is an issue)
-- [x] Implement warning that the viewmodel script will stop demos [kinda completed in release 1.3.0]
-- [x] Implement viewmodel flip script [completed in release 1.3.0]
-- [x] Implement cmd demorestart command in quick fixes [completed in release 1.3.0]
-- [x] Make buttons play a sound on click (using the in-game command: `playgamesound`) [completed in release 1.3.0]
 
 ## Ideas
 
@@ -145,7 +141,6 @@ Here's a overview over the UI menu and it's functions: <br>
 - [ ] Separate enable/disable and cycle buttons for `net_graph`
 - [ ] This is a long shot, but maybe look into ways of saving things across game sessions that were set in the menu?
   - [this looks promising](https://github.com/jooonior/tf2-loadouts-script/blob/master/cfg/loadouts/save.cfg)
-- [ ] Add `.vpk` versions to Releases [completed in release 1.2.0, but broken in 1.4.0]
 
 ## Changelog
 
