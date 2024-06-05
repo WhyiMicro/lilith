@@ -1,5 +1,10 @@
 # dev
-[tf2 cvars](https://docs.comfig.app/latest/tf2/cvarlist_win/) | [lilith wiki](https://github.com/WhyiMicro/lilith/wiki) | [changelog](https://github.com/WhyiMicro/lilith/tree/main?tab=readme-ov-file#changelog)
+[tf2 cvars](https://docs.comfig.app/latest/tf2/cvarlist_win/) | [lilith wiki](https://github.com/WhyiMicro/lilith/wiki) | [changelog](https://github.com/WhyiMicro/lilith/tree/main?tab=readme-ov-file#changelog) <br>
+### Note:
+to make it easier to have multiple people working on it and to understand what exactly you're looking at, I'll include plenty comments and I generally try to fallow these rules during development: <br>
+- Functions/Aliases: thisIsAFunction
+- Sound effects: sfx.soundName
+- Modules: this_is_a_module=true
 # lilith
 
 A interactable UI in Team Fortress 2, built with useful features for both general use and more advanced functions! <nr>
