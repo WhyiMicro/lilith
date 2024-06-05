@@ -10,6 +10,8 @@ A interactable UI in Team Fortress 2, built with useful features for both genera
 [RealWinterPyro](https://github.com/RealWinterPyro) (Contributer) <br>
 [ReplayCoding](https://github.com/ReplayCoding) (Contributer) <br>
 [Deer ♡](https://github.com/DeerUwU) (Fixed .vpk crash caused by hud files in version 1.4.0) <br>
+[wget](https://github.com/wgetJane) (Method for flipping viewmodels without leaving game) <br>
+[jooonior](https://github.com/jooonior) (Parts of his Static Amby Crosshair script used for toggleable transparent viewmodels) <br>
 [hbivnm](https://github.com/hbivnm) (Suggestions)
 
 ## Features
