@@ -1,4 +1,4 @@
-// Part of the static-amby mod used to make the toggle transparent viewmodels work
+// Streches the overlay to fit the whole screen
 "Resource/UI/HudAchievementTrackerItem.res"
 {
 	"ItemAttributeTracker"

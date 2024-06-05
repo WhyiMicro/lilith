@@ -1,6 +1,3 @@
-// Part of the static-amby mod used to make the toggle transparent viewmodels work
-// #base "../../transparentElement.res"
-
 "Resource/UI/HudAchievementTrackerItem.res"
 {
 	// Make sure the container hasn't been modified
@@ -90,7 +87,7 @@
 			"tall"			"480"
 			"visible"		"1"
 			"enabled"		"1"
-			"image"			"replay/thumbnails/REFRACTnormal_transparent"
+			"image"			"replay/thumbnails/transparencyLayer"
 			"scaleImage"	"1"
 		}
 		
