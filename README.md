@@ -115,6 +115,7 @@ Here's a overview over the UI menu and it's functions: <br>
   - Defaults movement to null/normal depending on what module you use (Will be added to **when** you use rainbow crosshair too)
 - Reordered some options in General UI
 - Changed some UI labels
+- `lilith_customizations.cfg` is now called `lilith_modules.cfg` instead as that made more sense
 - General clean up in files
 
 <details>
