@@ -9,67 +9,95 @@ A interactable UI in Team Fortress 2, built with useful features for both genera
 ## Features
 lilith is packed with a bunch of features! <br>
 Here's a overview over the UI menu and it's functions: <br>
-* General
-  * Toggle for displaying FPS
-  * Toggle for displaying POS
-  * Toggle between the net_graphs (0 - 4)
-  * Move the net_graph (right, center, left)
-  * Change viewmodel_fov (60 - 120)
-  * Toggle viewmodels
-  * Toggle minimal viewmodels
-  * Toggle for chat
-  * Toggle for voice chat
+
+<details>
+<summary>General</summary>
  
-* Emojies
-  * Lenny face
-  * Shrug face
-  * Hmm face
-  * Loving face
-  * Table flip
-  * Fuck Off emoji
-  * Relaxed dog face
-  * Long lenny face
-  * Donger bill face
+- Toggle for displaying FPS
+- Toggle for displaying POS
+- Toggle between the net_graphs (0 - 4)
+- Move the net_graph (right, center, left)
+- Change viewmodel_fov (60 - 120)
+- Toggle viewmodels
+- Toggle minimal viewmodels
+- Toggle for chat
+- Toggle for voice chat
+</details>
+
+<details>
+<summary>Emojies</summary>
  
-* Taunts
-  * Essentially replaces the taunt menu
-  * Option of default taunt included
+- Lenny face
+- Shrug face
+- Hmm face
+- Loving face
+- Table flip
+- Fuck Off emoji
+- Relaxed dog face
+- Long lenny face
+- Donger bill face
+</details>
  
-* Patches
-  * Vote map 1 - 3 bypass in casual for whenever the UI breaks and is unclickable
-  * Fix visual bugs button for light issues (can happen when alt tabbing) and other problems such as invisible characters
-  * Reload hud
-  * Reload textures
-  * Reload materials
+<details>
+<summary>Taunts</summary>
  
-* Scripts
-  * Toggle for crouch jump script
-  * Toggle for fake ping (Will decrease ping on scoreboard for everyone. Only visually!)
-  * Toggle for bhop (Will reconnect you to server and cap your fps to 66. Also requires the `wait` command to work on the server)
-  * Toggle for flipping viewmodels lett/right (Will stop demo recording if you're currently recording one)
-  * Toggle for transparent viewmodels (Requires dxlevel at 90+)
+ - Essentially replaces the taunt menu
+ - Option of default taunt included
+</details>
  
-* Loadout
-  * Load preset A, B, C and D
-  * Toggle quickswitch UI
-  * Toggle respawn on loadoutchanges
+<details>
+<summary>Patches</summary>
  
-* Crosshair
-  * Change crosshair color red 0 - 255
-  * Change crosshair color green 0 - 255
-  * Change crosshair color blue 0 - 255
-  * Change crosshair scale 0 - 40
-  * Change between default tf2 crosshairs
-  * Change crosshair to tf2's deault
-  * Toggle rainbow crosshair colors
-  * Weapon specific crosshairs (if installed)
-  * Toggle crosshair on/off
+ - Vote map 1 - 3 bypass in casual for whenever the UI breaks and is unclickable
+ - Fix visual bugs button for light issues (can happen when alt tabbing) and other problems such as invisible characters
+ - Reload hud
+ - Reload textures
+ - Reload materials
+</details>
  
-* Servers
-  * Allows for up to 9 bookmarked servers (Updates dynamically and has customization instructions)
+<details>
+<summary>Scripts</summary>
  
-* Credits
-  * Not much of a "feature", but has a list of the people who made lilith
+ - Toggle for crouch jump script
+ - Toggle for fake ping (Will decrease ping on scoreboard for everyone. Only visually!)
+ - Toggle for bhop (Will reconnect you to server and cap your fps to 66. Also requires the `wait` command to work on the server)
+ - Toggle for flipping viewmodels lett/right (Will stop demo recording if you're currently recording one)
+ - Toggle for transparent viewmodels (Requires dxlevel at 90+)
+</details>
+ 
+<details>
+<summary>Loadout</summary>
+ 
+ - Load preset A, B, C and D
+ - Toggle quickswitch UI
+ - Toggle respawn on loadoutchanges
+</details>
+ 
+<details>
+<summary>Crosshair</summary>
+ 
+ - Change crosshair color red 0 - 255
+ - Change crosshair color green 0 - 255
+ - Change crosshair color blue 0 - 255
+ - Change crosshair scale 0 - 40
+ - Change between default tf2 crosshairs
+ - Change crosshair to tf2's deault
+ - Toggle rainbow crosshair colors
+ - Weapon specific crosshairs (if installed)
+ - Toggle crosshair on/off
+</details>
+ 
+<details>
+<summary>Servers</summary>
+ 
+ - Allows for up to 9 bookmarked servers (Updates dynamically and has customization instructions)
+</details>
+ 
+<details>
+<summary>Credits</summary>
+ 
+ - Not much of a "feature", but has a list of the people who made lilith
+</details>
 
 ## Todo list
 
