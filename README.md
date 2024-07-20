@@ -191,20 +191,20 @@ Here's a overview over the UI menu and it's functions: <br>
 - Removed some unnecessary files
 - Mod is finally available in `.vpk` format
 
-## 1.1.0
+## 1.1.0 [UNRELEASED]
 
 - Fixed null not being implemented with lilith by default
 - Added transparent viewmodel toggle under scripts (not working yet)
 - Added 2 new patches for texture and material reloads
 
-## 1.0.1
+## 1.0.1 [UNRELEASED]
 
 - Fixed keys not being remapped after joining a server through the server browser
 - Added console syntax support (using `setinfo` command)
 - Added this changelog system
 - Removed the old changelog system
 
-## 1.0.0
+## 1.0.0 [UNRELEASED]
 
 - Initial release!
 
