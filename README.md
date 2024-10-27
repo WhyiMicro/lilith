@@ -140,7 +140,7 @@ Here's a overview over the UI menu and it's functions: <br>
 - [ ] Spectate button
 - [ ] Separate enable/disable and cycle buttons for `net_graph`
 - [ ] This is a long shot, but maybe look into ways of saving things across game sessions that were set in the menu?
-  - [this looks promising](https://github.com/jooonior/tf2-loadouts-script/blob/master/cfg/loadouts/save.cfg)
+  - [this looks promising](https://github.com/jooonior/tf2-loadouts-script/blob/master/cfg/loadouts/init.cfg)
 
 ## Changelog
 
