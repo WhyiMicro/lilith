@@ -18,6 +18,7 @@ A interactable UI in Team Fortress 2, built with useful features for both genera
 [wget](https://github.com/wgetJane) (Method for flipping viewmodels without leaving game) <br>
 [jooonior](https://github.com/jooonior) (Parts of his Static Amby Crosshair script used for toggleable transparent viewmodels) <br>
 [hbivnm](https://github.com/hbivnm) (Suggestions)
+[cheddartaco](https://gamebanana.com/members/2003624) (Auto RP mod)
 
 ## Features
 lilith is packed with a bunch of features! <br>
